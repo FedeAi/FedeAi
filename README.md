@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **FedeAi/FedeAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,3 +37,6 @@ Welcome to my GitHub! I’m an engineer passionate about creating smart systems 
 Whether it’s building groundbreaking projects or sharing ideas, I’m always up for exciting opportunities. Feel free to explore my [repositories](https://github.com/FedeAi) or connect with me!  
 
 ---
+
+![Argo Robot Demo](https://your-image-link.com/argo-demo.gif)
+A smart, interactive robot enhancing home interactivity.
