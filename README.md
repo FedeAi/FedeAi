@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m an engineer passionate about creating smart systems 
 
 ## 🔍 What I Do  
 
-- 🏎️ **Autonomous Systems**: Developing cutting-edge multi-agent trajectory planning.  
+- 🏎️ **Autonomous Systems**:  Innovating in autonomous racing with advanced perception, control, and multi-agent coordination systems.
 - 🤖 **Robotics**: Co-founder of a smart companion robot enhancing home interactivity.  
 - 🧠 **AI Innovation**: From NLP systems to advanced path planning.  
 - 💻 **Software Engineering**: Building robust, scalable, and efficient software solutions.  
